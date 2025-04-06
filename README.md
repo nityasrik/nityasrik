@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/nityasrik/nityasrik/blob/main/download.gif?raw=true" alt="cute banner" width="70%">
+</p>
 
-<!--
-**nityasrik/nityasrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">hey, i’m nitya 🪼</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  creative dev in the making | currently exploring react, node.js, and electron ⚡️<br>
+  love all things cute, aesthetic, and techy ✨
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ tech i'm tinkering with
+
+- 🌱 currently learning: `react`, `node.js`, `electron`
+- 💻 languages: `HTML`, `CSS`, `JavaScript`, `GSAP`, `DSA`
+- 🎨 also exploring: `UI/UX design`, `figma`,`tailwindcss`
+- open to collaborations and creative tech projects!
+
+---
+
+### 📌 find me here
+
+<a href="https://github.com/nityasrik">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nityasrikanukolanu" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+
+---
