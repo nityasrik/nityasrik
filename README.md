@@ -13,9 +13,9 @@
 
 ### 🛠️ tech i'm tinkering with
 
-- 🌱 currently learning: `react`, `node.js`, `electron`
+- 🌱 currently learning: `react`, `node.js`, `tailwind`
 - 💻 languages: `HTML`, `CSS`, `JavaScript`, `GSAP`, `DSA`
-- 🎨 also exploring: `UI/UX design`, `figma`,`tailwindcss`
+- 🎨 also exploring: `UI/UX design`, `figma`,`electron`
 - open to collaborations and creative tech projects!
 
 ---
