@@ -2,7 +2,7 @@
   <img src="https://github.com/nityasrik/nityasrik/blob/main/download.gif?raw=true" alt="cute banner" width="70%">
 </p>
 
-<<h2 align="center">hey, i’m nitya 🧠✨</h2>
+<h2 align="center">hey, i’m nitya 🧠✨</h2>
 
 <p align="center">
 creative dev turned curious data explorer | dabbling in <strong>AI, ML, and full-stack</strong> | love all things cute, aesthetic, and techy 🌸  
@@ -11,11 +11,12 @@ creative dev turned curious data explorer | dabbling in <strong>AI, ML, and full
 ---
 
 ### 🔬 currently exploring
-- 📊 **Data Analysis** – pandas, seaborn, matplotlib  
-- 🤖 **Machine Learning** – scikit-learn, regression, classification, model explainability (SHAP)  
-- 💻 **Python** – Jupyter Notebooks, beginner ML workflows  
-- 🌐 also working with – React, Node.js, MongoDB, Electron  
+- 📊 **Data Analysis** 
+- 🤖 **Machine Learning**  
+- 💻 **Python** 
+- 🌐 also working with – React, Tailwind, Node.js, MongoDB, Electron  
 - 🎨 design tools – Figma, Canva  
+- open to collaborations and creative tech projects!
 
 --- 
 
@@ -31,5 +32,5 @@ creative dev turned curious data explorer | dabbling in <strong>AI, ML, and full
 ---
 
 🧃 *vibing through code, chaos, and curiosity*
-- open to collaborations and creative tech projects!
+
 
