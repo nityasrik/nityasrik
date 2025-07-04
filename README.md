@@ -20,7 +20,7 @@ creative dev turned curious data explorer | dabbling in <strong>AI, ML, and full
 
 --- 
 
-### 🌐 connect
+### 🌐 let's connect!
 - <a href="https://github.com/nityasrik">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
