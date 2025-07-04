@@ -2,27 +2,25 @@
   <img src="https://github.com/nityasrik/nityasrik/blob/main/download.gif?raw=true" alt="cute banner" width="70%">
 </p>
 
-<h1 align="center">hey, i’m nitya 🪼</h1>
+<<h2 align="center">hey, i’m nitya 🧠✨</h2>
 
 <p align="center">
-  creative dev in the making | currently exploring react, node.js, and electron ⚡️<br>
-  love all things cute, aesthetic, and techy ✨
+creative dev turned curious data explorer | dabbling in <strong>AI, ML, and full-stack</strong> | love all things cute, aesthetic, and techy 🌸  
 </p>
 
 ---
 
-### 🛠️ tech i'm tinkering with
+### 🔬 currently exploring
+- 📊 **Data Analysis** – pandas, seaborn, matplotlib  
+- 🤖 **Machine Learning** – scikit-learn, regression, classification, model explainability (SHAP)  
+- 💻 **Python** – Jupyter Notebooks, beginner ML workflows  
+- 🌐 also working with – React, Node.js, MongoDB, Electron  
+- 🎨 design tools – Figma, Canva  
 
-- 🌱 currently learning: `react`, `node.js`, `tailwind`
-- 💻 languages: `HTML`, `CSS`, `JavaScript`, `GSAP`, `DSA`
-- 🎨 also exploring: `UI/UX design`, `figma`,`electron`
-- open to collaborations and creative tech projects!
+--- 
 
----
-
-### 📌 find me here
-
-<a href="https://github.com/nityasrik">
+### 🌐 connect
+- <a href="https://github.com/nityasrik">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 &nbsp;
@@ -31,3 +29,7 @@
 </a>
 
 ---
+
+🧃 *vibing through code, chaos, and curiosity*
+- open to collaborations and creative tech projects!
+
